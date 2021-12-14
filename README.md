@@ -27,3 +27,5 @@ For the comparisons with Denmark and the United States, source data from Aburto 
 ### Acknowledgements
 
 The R code and resulting figures partly re-use [publicly available code and data](https://github.com/OxfordDemSci/ex2020) used by *Aburto et al. (2021)*, with some modifications.
+
+Aburto, J. M., Schöley, J., Kashnitsky, I., Zhang, L., Rahal, C., Missov, T. I., Mills, M. C., Dowd, J. B., & Kashyap, R. (2021). Code to replicate 'Quantifying impacts of the COVID-19 pandemic through life expectancy losses' (Version 0.3.1) [Computer software]. https://doi.org/10.5281/zenodo.5171938
