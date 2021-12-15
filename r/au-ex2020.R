@@ -504,9 +504,7 @@ ggplot(p1, aes(year, ex, color = name)) +
       panel.spacing.x = unit(2, "lines"),
       panel.spacing.y = unit(2, "lines"),
       axis.text.y = element_text(face = 2),
-      legend.key.width = unit(3,"line"),
-     plot.background = element_rect(color = "black", fill = "white")
-  ) +
+      legend.key.width = unit(3,"line")  ) +
   labs(
       y = "Life expectancy, years",
       x = "Time periods"
