@@ -22,7 +22,7 @@ For the comparisons with Denmark and the United States, source data from Aburto 
 ### Structure
 ----------------
 
-* _r_ contains R code.
+* _r_ contains R code. The code assumes the working directory is set to the _r_ directory.
 * _data_ contains the data for Australia.
 * _output_ contains outputs (i.e., figures) produced from the R code.
 
