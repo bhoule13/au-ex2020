@@ -3,7 +3,7 @@
 ### Introduction
 ------------
 
-This GitHub repository contains the replication code and data to accompany the manuscript [*Quantifying impacts of the COVID-19 pandemic on Australian life expectancy*](), published in the *International Journal of Epidemiology*.
+This GitHub repository contains the replication code and data to accompany *Quantifying impacts of the COVID-19 pandemic on Australian life expectancy*.
 
 ### Prerequisites
 ------------
